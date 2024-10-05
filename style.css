@@ -1,0 +1,25 @@
+
+h2 {
+    color: magenta;
+}
+
+p {
+    color: cadetblue;
+}
+
+img {
+    object-fit: contain;
+    width: 100%;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.card {
+    width: 300px;
+}
